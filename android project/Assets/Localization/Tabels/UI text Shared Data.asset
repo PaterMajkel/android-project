@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI text
+  m_TableCollectionNameGuidString: b619276f814be3f4298b05e50fb78aa2
+  m_Entries:
+  - m_Id: 31445159936
+    m_Key: Congratz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170717024256
+    m_Key: EnterName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252036190208
+    m_Key: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 337134424064
+    m_Key: GoBack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2012389773312
+    m_Key: LangSelector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4656177025024
+    m_Key: Save
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1642902850321
